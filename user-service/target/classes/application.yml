@@ -1,9 +1,0 @@
-server:
-  port: 8081
-spring:
-  application:
-    name: user-service
-  datasource:
-    password: '@root@123321'
-    url: jdbc:mysql://localhost:3306/demodatabase
-    username: root
